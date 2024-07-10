@@ -19,6 +19,8 @@ $bin/dev
 
 * How to run the test suite
 
+$rails test test/models/blog_post_test.rb
+
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
